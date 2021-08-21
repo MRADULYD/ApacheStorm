@@ -1,1 +1,1 @@
-This topology listens to events uploaded to eventhub on realtime.
+This topology listens to events uploaded to eventhub in realtime.
